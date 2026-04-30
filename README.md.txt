@@ -6,4 +6,3 @@ Here's our todo:
 - [x] Make first commit 
 - [x] Fix this typo
 
-Adding a change
