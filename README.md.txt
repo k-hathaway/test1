@@ -4,4 +4,4 @@ Here's our todo:
 
 - [x] create a new file
 - [x] Make first commit 
-- Fix this typo
+- [x] Fix this typo
